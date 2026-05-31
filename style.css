@@ -1,0 +1,9 @@
+body { background: #2d6d87; margin: 0; font-family: sans-serif; }
+.secure-terminal { padding: 20px; display: flex; }
+.block-logger-0 { color: #705ccd; font-size: 12px; margin-bottom: 5px; }
+.block-router-1 { color: #21ee57; font-size: 19px; margin-bottom: 5px; }
+.block-config-2 { color: #24390e; font-size: 13px; margin-bottom: 5px; }
+.block-notify-3 { color: #a6f916; font-size: 20px; margin-bottom: 5px; }
+.block-router-4 { color: #78057d; font-size: 12px; margin-bottom: 5px; }
+.block-user-5 { color: #d5673a; font-size: 12px; margin-bottom: 5px; }
+.block-payment-6 { color: #f8b5ae; font-size: 20px; margin-bottom: 5px; }
